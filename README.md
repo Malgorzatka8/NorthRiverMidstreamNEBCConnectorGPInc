@@ -1,7 +1,9 @@
 # NorthRiverMidstreamNEBCConnectorGPInc
 
  Code generates CSV file with all documents in CER REGDOCS for NorthRiver Midstream NEBC Connector GP Inc. application.
- 
+
+REGDOCS link: https://apps.cer-rec.gc.ca/REGDOCS/Item/View/4158245 
+
  Receipts excluded by default. Updated 22 January 2023.
  
  CSV file includes 16 document attributes: 
